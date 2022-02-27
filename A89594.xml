@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a person of quality in the Parliaments army, in Munster in Ireland, to an honourable member of the House of Commons. With a particular relation of the taking in of the castle of Dromannagh, the castle, town, and garrison of Cappoquin, both lying on the Black-water: and the castle, towne, and port of Dungarvau [sic], being one of the rebels principall sea-towns in Munster, by the Parliaments forces under the command of the Lord Inchiquin, Lord President of Munster.</title>
+            <author>B. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89594</idno>
+            <idno type="STC">Wing M8</idno>
+            <idno type="STC">Thomason E388_12</idno>
+            <idno type="STC">ESTC R201508</idno>
+            <idno type="EEBO-CITATION">99862009</idno>
+            <idno type="PROQUEST">99862009</idno>
+            <idno type="VID">160237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160237)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E388[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a person of quality in the Parliaments army, in Munster in Ireland, to an honourable member of the House of Commons. With a particular relation of the taking in of the castle of Dromannagh, the castle, town, and garrison of Cappoquin, both lying on the Black-water: and the castle, towne, and port of Dungarvau [sic], being one of the rebels principall sea-towns in Munster, by the Parliaments forces under the command of the Lord Inchiquin, Lord President of Munster.</title>
+                  <author>B. M.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.T.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of "A letter from a person of quality" signed: B.M.; and "A relation of the taking of the Castle of Dromannagh", a narrative.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "May 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Munster (Ireland) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160237:1" rendition="simple:additions"/>
+            <p>A LETTER, FROM A perſon of quality in the Parliaments Army, in <hi>Munſter</hi> in <hi>Ireland,</hi> to an Honourable Member of the Houſe of Commons.</p>
+            <p>With a particular RELATION OF The taking in of the CASTLE of <hi>Dromannagh,</hi> the Caſtle, Town, and Garriſon of <hi>Cappo<g ref="char:EOLhyphen"/>quin,</hi> both lying on the <hi>Black-water:</hi> And the Caſtle, Towne, and Port of <hi>Dungarvau,</hi> being one of the Rebels principall Sea-Towns in <hi>Munſter,</hi> by the Parliaments Forces under the com<g ref="char:EOLhyphen"/>mand of the Lord <hi>Inchiquin,</hi> Lord Preſident of <hi>Munſter.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>H. T. 1647.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160237:2"/>
+            <pb facs="tcp:160237:2"/>
+            <head>A <hi>LETTER</hi> from a perſon of quality in the Parliaments Army in <hi>Munſter</hi> in <hi>Ireland,</hi> to an Honourable Member of the Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my laſt Letter I made a diſcovery unto you of ſome fears, that the enemy upon the many Alarms given un<g ref="char:EOLhyphen"/>to them by our ſlight and inconſiderable parties, would have fortified their frontier Garriſons, to a reſolution of defending them againſt us, and ſo have put us to a weary ſiege, for the reducing of thoſe Holds, which at the firſt of the Spring might have been taken in with much facility: What I then conceived, was (I beleeve) at that time their intention, they received into each of thoſe places, ſtrong guards to ſecure them againſt any op<g ref="char:EOLhyphen"/>poſition we could make againſt them; but God, who hath the hearts of all men in his hands, hath bereaved them of theirs, diſappointed their reſolutions, and produced no other effects out of all their con<g ref="char:EOLhyphen"/>trivements, but Glory to himſelfe and Honour to his ſervants, for he hath already delivered unto our hands thoſe Garriſons, which were a terrour to all our Quarters, <hi>Drummana, Coppequin,</hi> and <hi>Dungarvon,</hi> and without any great expence, either of time or bloud: It was Sir, I confeſſe, the ſubject of much admiration to us all, and I hope we ſhall continue the memory thereof amongſt us, as an incitement to thankſ<g ref="char:EOLhyphen"/>giving to our God. The manner of their reducing being noto<g ref="char:EOLhyphen"/>rious and publike, will, I doubt not, come to your knowledge by the Pens of many others. Yet I ſend you incloſed a particular of their ſeverall proceedings, and may not omit to give you ſome account of the behaviour of the Lord Preſident herein, whoſe vigilancy and forwardneſſe was ſo great, that we may juſtly call his perſonall acti<g ref="char:EOLhyphen"/>ons, the chiefeſt inſtrument, under God, of effecting thoſe deſignes, though he were Generall of the Army, and had thoſe others under him who could well anſwer the expectation of their own employ<g ref="char:EOLhyphen"/>ments,
+<pb facs="tcp:160237:3"/>in paying the Batteries, in drawing on their Guns, in obſer<g ref="char:EOLhyphen"/>ving places of advantage for our Cannon and the like, yet he thought it no diſhonour to act their ſeverall offices for the expediting of the ſervice, knowing that the Souldier is more provoked to diligence and gallantry by example then by precept, I doe not hereby deſire to de<g ref="char:EOLhyphen"/>rogate any thing from thoſe who were his aſſiſtance in the worke, they muſt receive their honours in their due places, and may moſt of them (Officers and Souldiers, thoſe of the new Regiments, as well as of the old) challenge a portion anſwerable to their employments; but I muſt not tranſgreſſe, I intend but a ſhort Letter, and will not make it a Diſcourſe.</p>
+            <p>Sir, God hath placed you amongſt the number of thoſe Worthies there, who have ſo charitably undertaken the mannagement of this un-queſtioned juſt War: We are now in a faire proceeding to effect ſomthing of conſequence upon the enemies of the Church; as a poore Member whereof, I offer up my prayers unto God, that a timely aſ<g ref="char:EOLhyphen"/>ſiſtance may be ſent unto us in this day of opportunity; You have begun nobly, in Gods name goe on, and evidence to the world, that his Cauſe ſhall not be deſtitute of Patrons which will own it and abet it: Beſides, what a diſhonour would it be to our Maſters there? what a diſcouragement to the Souldiers here? what an encourage<g ref="char:EOLhyphen"/>ment to the enemy abroad? to ſee us nipt in the bloſſome, and loſe the hopes of our forward increaſe, for want of food to give us growth and vigor, which if ſeaſonably provided, I dare confidently averre, through the providence of God, which we preſume to promiſe to our ſelves, that this Sommer will afford ſuch an account of the Warre in <hi>Munſter</hi> (if it be not retarded by the interpoſition of particular de<g ref="char:EOLhyphen"/>ſignes of malice to breake us amongſt our ſelves) thus the underta<g ref="char:EOLhyphen"/>kers themſelves will begin to account that their beſt husbandry, which they have expended upon this deſigne, I will not inquire your piety ſo far as to beſeech your motion to the Houſe for an expedient herein, your own inclination is a ſufficient prompter to an action of ſo much charity and honour, I ſhall therefore trouble you no farther, but ſhall alwayes remain,</p>
+            <closer>
+               <dateline>
+                  <hi>Dungay,</hi> 
+                  <date>10 <hi>May,</hi> 1647.</date>
+               </dateline>
+               <salute>Sir,</salute> 
+               <signed>Your moſt humble ſervant, <hi>B.M.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="account">
+            <pb facs="tcp:160237:3"/>
+            <head>A <hi>RELATION</hi> of the taking in of the Caſtle of <hi>Dromannagh,</hi> the Castle, Town and Garriſon of <hi>Cappoquin,</hi> both lying on the <hi>Black-water, &amp;c.</hi>
+            </head>
+            <p>ABout the 26<hi rend="sup">th</hi>, of the laſt moneth, the Lord Preſident mar<g ref="char:EOLhyphen"/>ched forth, with the Army towards, the Black-waterſide, and ſat downe before the Caſtle of <hi>Dromannagh</hi> a ſtrong hold of the Rebbles which: hath greatly annoyed out Quarters, and having made a ſmall brach in the Out-workes whereon an aſſault was given by our men who drove the Rebels to retreat into their Caſtle, The Officers conſidering the ſame to be a place of much ſtrength, and likely to coſt a great expence of blood, and ſome waſte of time, their principall deſigne being upon <hi>Cappoquin</hi> (a Paſſe of greater importance) did condeſcend to accept the Caſtle of <hi>Dro<g ref="char:EOLhyphen"/>mannagh</hi> at the hand of the deſtroyers: upon Quarter only for life and their wearing apparell, and accordingly on Fryday the laſt of <hi>Aprill</hi> that place was ſurrendred to the Lord Preſident, wherein was found very little booty, they having a long time expected a ſiege and diſpoſed of all things which were of value out of their Caſtle where<g ref="char:EOLhyphen"/>in there were only foure barrels of powder, a proportion of Match one or two ſmall peeces of Ordnance, ſome Murtherers, Sling-peeces and about 100 Armes, the ward conſiſting of about 60 men</p>
+            <p>From hence the Lord Preſident, having intelligence of a freſh ſup<g ref="char:EOLhyphen"/>ply that night to be ſent into <hi>Cappoquin,</hi> immediately diſpatched away all the Horſe-forces to face that Garriſon, and ſurround it till the Foot drew up, which proved to be ſo ſeaſonably done, that the ſupply of Match and powder being upon the way to that place under the Convoy of a Regiment of Foot, and three Troopes of Horſe, was upon the appearance of our Horſe force to retreat in ſome haſt to <hi>Clomnell,</hi> this diſappointment of their Munition (we afterward diſcovered) occaſioned them upon the firſt Summons to imbrace a treaty, and the ſecond of <hi>May</hi> to give up, upon Quarter, to march away with bag and baggage, except ſuch of our owne men as ſhould be there found and had runne from there Colours all which to the number of 23, were condemned to be hanged.</p>
+            <pb facs="tcp:160237:4"/>
+            <p>So as we gained that important Paſſe and the forementioned caſtle with the loſſe only of two men, and about ſix hurt, without any great expence of time or Munition: This place will be an excellent Garriſon both in reſpect of ſecuring our own Quarters, and annoying the Re<g ref="char:EOLhyphen"/>bels, for which it is moſt commodiouſly ſeated, having a ſtrong Caſtle to countenance the Towne and Out-works, and a Bridge alſo very well fortified with a defenſible work at the furtheſt end from the Towne.</p>
+            <p>The Preſident being poſſeſſed of this place drew the whole Army into it and the adjoyning Villages to ſhelter themſelves from the violence of the weather, which then proved to be exceeding wet and foule, giving great impediment to our progreſſe, but for our incourage<g ref="char:EOLhyphen"/>ment it pleaſed God that about the ſame inſtant there arrived Collonel <hi>Temple</hi> with his Regiment of Horſe, and ſoon after a Ship laden with Corn, and the Admiral with 5000 pound in Spaniſh mony. And now the Lord Preſident being forced to ſpend a little time in the ſet<g ref="char:EOLhyphen"/>ling and diſpoſing theſe new forces, which he had no ſooner diſ<g ref="char:EOLhyphen"/>patched, but he ordered the remove of the Army from <hi>Cappoquin</hi> to <hi>Dungarvau,</hi> a Sea-Towne well walled and fortified, and one of the Rebels chiefe Ports in <hi>Munſter,</hi> and a receptacle for their Pyrats and Dunkirk Friggots that our Coaſt of <hi>England</hi> as well as <hi>Ireland,</hi> In this removall his Lordſhip found very great difficulty, though the way were ſhort not above ſeven miles for want of Carriages and draught horſes and Oxen for his Artillery and Proviſions, wherein hee was driven to that Exigency that he was inforced to hyre the Souldiers for money to helpe forward both the Ordnance, and other neceſſaries, heere his Lordſhip did even reſolve to decline, harkening to all tearms or treatyes after the firſt Summons if the defendants ſhould refuſe to ſurrender: But finding that after foure dayes conſtant battery with foure battering Peeces, that they could make no aſſaultable breach, and that though we had taken one Caſtle by ſtorme neere the Towne by which they ſecured their water, that theſe within did not appeare to be in any diſtreſſe, and finding alſo that through want of Carriages proviſions grew ſo ſcant in the Army, as that divers of the men fell ſick, and many faint, and that the croſneſſe of the winds did hinder the comming about by Sea of thoſe provi<g ref="char:EOLhyphen"/>ſions that were appointed to come that way, and that to change the
+<pb facs="tcp:160237:4"/>places of battery would be a work of much time and trouble, the Lord Preſident did with the advice of the Officers accept the ſurrender of that place, on quarter, to march away with bag and baggage.</p>
+            <p>Upon our comming into the Town wee found the cauſe that indu<g ref="char:EOLhyphen"/>ced them to give it up, was want of Munition (as at <hi>Cappoquin</hi>) which was alſo upon the way towards them by Sea from <hi>Waterford,</hi> but was prevented and drawn back by Captain <hi>Willoughby,</hi> and Cap<g ref="char:EOLhyphen"/>tain <hi>Plunkets</hi> Frigot, who lay before the Harbours mouth on purpoſe by the Lord Preſidents directions, we alſo found that if we had car<g ref="char:EOLhyphen"/>ried the Town by Storm, the Caſtle within it might well have been juſtified againſt us, and would have probably coſt much bloud in the acquiring.</p>
+            <p>In this place was little of value left they having as at <hi>Dromanna</hi> and <hi>Cappoquin</hi> ſhifted away all they had in expectation of a ſiege, which we underſtand they begin to provide for at <hi>Waterford, Clomnell, Caſhell,</hi> and <hi>Fetherd,</hi> all which places we deſire to be dealing with, and would be of great advantage but want of Carriages for the trayne will not ſuffer us to march on ſo conſiderable deſignes, and to take in more Garriſons till our Army be more numerous will too much en<g ref="char:EOLhyphen"/>feeble it. In this Town we gained 12 Peeces of Ordnance, loſt one Captaine and had a Major wounded, taken priſoner and releaſed upon the ſurrender, about ſix men more were loſt, and three horſe ſhot, and of the Rebels about 100 ſlaine.</p>
+            <p>This Town and Harbour will be of great advantage to the Par<g ref="char:EOLhyphen"/>liaments ſhipping, where they may lye conveniently to meet with any of the rebels ſhips as they come out of <hi>Waterford,</hi> or hover upon, or coaſt neer <hi>Yoyhall.</hi>
+            </p>
+            <p>I had almoſt forgot to acquaint you, that in our march to <hi>Dun<g ref="char:EOLhyphen"/>garvau,</hi> we tooke a Caſtle called <hi>Corniſleedigh</hi> belonging to one <hi>Philip, Which Cragh</hi> lying upon the edge of the mountaine between <hi>Coppoquin</hi> and <hi>Clomnell.</hi>
+            </p>
+            <p>The Officers and Souldiers are ſingularly active and deſirous to continue in action, and expreſſe great reſentment at the thought of any impediments that ſhould hinder them in their progreſſe and march: They are all unanimouſly affected both to the Service, and to their Commander in chiefe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
